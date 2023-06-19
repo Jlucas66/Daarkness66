@@ -1,8 +1,8 @@
 Olá, sou o João Lucas.
 
--💻Atualmente estudando html, CSS e JavaScript.
+-💻Atualmente estudando Python voltado para Machine Learning, banco de dados com MySQL, Java.
 
--📚Interesse em me especializar em Backend estudando Node.js e MongoDB.
+-📚Interesse em me especializar em Machine Learning.
 
 <div align="center">
   <a href="https://github.com/Daarkness66">
