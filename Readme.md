@@ -1,6 +1,6 @@
 Olá, sou o João Lucas.
 
--💻Atualmente estudando Python voltado para Machine Learning, banco de dados com MySQL, Java.
+-💻Atualmente estudando Python voltado para Machine Learning, banco de dados com MySQL, Java. Neste perfil você encontrará códigos voltados a estudo.
 
 -📚Interesse em me especializar em Machine Learning.
 
