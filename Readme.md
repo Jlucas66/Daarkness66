@@ -5,9 +5,9 @@ Olá, sou o João Lucas.
 -📚Interesse em me especializar em Machine Learning.
 
 <div align="center">
-  <a href="https://github.com/Daarkness66">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daarkness66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daarkness66&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Jlucas66">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jlucas66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlucas66&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
